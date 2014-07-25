@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\projects\Cars\Assets\Scripts\Cars\MainController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Cars\State\ICarState.cs" Line="7" Column="41" />
+      <File FileName="Assets\Scripts\Cars\State\HasStateObjectInterface.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\Cars\State\ICarState.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\Cars\ICar.cs" Line="10" Column="24" />
+      <File FileName="d:\projects\Cars\Assets\Scripts\Cars\MainController.cs" Line="64" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
